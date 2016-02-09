@@ -122,10 +122,10 @@ Cu toate acestea, dacă asculți muzica fără pierderi, recomandăm dezactivare
     <string name="pref_colorfulmusic_summary_on">Spațializare Câmp este activat</string>
     <string name="pref_colorfulmusic_summary_off">Spațializare Câmp este dezactivat</string>
     <string name="pref_colorfulmusic_enable">Activare</string>
-    <string name="pref_select_colorfulmusic_title">Spațializare Câmp Fond</string>
-    <string name="dialog_colorfulmusic">Putere Spațializare Câmp</string>
-    <string name="pref_select_colorfulmusic_mi_title">Spațializare Câmp Medii</string>
-    <string name="dialog_colorfulmusic_mi">Putere Câmp Medii</string>
+    <string name="pref_select_colorfulmusic_title">Nivel Lărgime Câmp</string>
+    <string name="dialog_colorfulmusic">Nivel Lărgime Câmp</string>
+    <string name="pref_select_colorfulmusic_mi_title">Putere Zonă Centru</string>
+    <string name="dialog_colorfulmusic_mi">Putere Zonă Centru</string>
     <string name="pref_diffsurr_title">Spațializare Diferențială</string>
     <string name="pref_diffsurr_summary_on">Spațializare Diferențială este activată</string>
     <string name="pref_diffsurr_summary_off">Spațializare Diferențială este dezactivată</string>
@@ -233,7 +233,7 @@ Bazat pe DSPManager Cyanogenmod.
 Mulțumiri pentru a Zhuhang @ XDA
 Mulțumiri pentru a M4570D0N @ github, xLaMbChOpSx @ github, bboa @ github
  
-Versiunea %1$s (FX), Codename "Beautiful".
+Versiunea %1$s (FX), Codename Beautiful.
 "</string>
     <string name="text_help_content">"*** Ajutor General ***
  
